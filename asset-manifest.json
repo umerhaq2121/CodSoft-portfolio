@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodSoft-portfolio/static/css/main.6ccd65a8.css",
+    "main.js": "/CodSoft-portfolio/static/js/main.5dce1cbf.js",
+    "static/js/787.1ed0c42c.chunk.js": "/CodSoft-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/CodSoft-portfolio/index.html",
+    "main.6ccd65a8.css.map": "/CodSoft-portfolio/static/css/main.6ccd65a8.css.map",
+    "main.5dce1cbf.js.map": "/CodSoft-portfolio/static/js/main.5dce1cbf.js.map",
+    "787.1ed0c42c.chunk.js.map": "/CodSoft-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.5dce1cbf.js"
+  ]
+}
